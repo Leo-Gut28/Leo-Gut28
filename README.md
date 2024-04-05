@@ -1,4 +1,7 @@
-### Hi there 👋
+<div style="text-align: center;">
+  <img src="https://github.com/Leo-Gut28/Leo-Gut28/blob/main/Banner.png" alt="Banner" style="display: block; margin: auto;">
+</div>
+
 
 I am a junior at Duke University, pursuing a double major in Computer Science and Electrical & Computer Engineering. I'm also getting a certificate in Innovation and Entrepreneurship. I'm interested in the applications of both hardware and software in various fields. 
 
